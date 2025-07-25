@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creeper launcher", "Creeper launcher\Creeper launcher.csproj", "{8AD06E21-7D7B-41D3-84F2-3CE2833C5F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD06E21-7D7B-41D3-84F2-3CE2833C5F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD06E21-7D7B-41D3-84F2-3CE2833C5F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD06E21-7D7B-41D3-84F2-3CE2833C5F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD06E21-7D7B-41D3-84F2-3CE2833C5F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A52081-5CA4-48BD-80A6-11790CE25A6C}
+	EndGlobalSection
+EndGlobal
